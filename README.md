@@ -1,1 +1,1 @@
-[点击安装积分宝商家版](itms-services:/?action=download-manifest&url=https://raw.githubusercontent.com/zyprosoft/jifenbao/master/jifenbao.plist)
+[点击安装积分宝商家版](http://1.zyprosoft.sinaapp.com/jifenbao.php)
